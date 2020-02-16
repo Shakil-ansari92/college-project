@@ -1,7 +1,7 @@
 # college-project
- # Robotic arm using arduino
+  Robotic arm using arduino
 
-# code for running the robotic arm
+ code for running the robotic arm
 \******** # start # *******\
 
 //add servo library
